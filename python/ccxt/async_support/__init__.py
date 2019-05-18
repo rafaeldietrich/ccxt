@@ -167,6 +167,7 @@ from ccxt.async_support.rightbtc import rightbtc                          # noqa
 from ccxt.async_support.southxchange import southxchange                  # noqa: F401
 from ccxt.async_support.stronghold import stronghold                      # noqa: F401
 from ccxt.async_support.surbitcoin import surbitcoin                      # noqa: F401
+from ccxt.async_support.tembtc import tembtc                              # noqa: F401
 from ccxt.async_support.theocean import theocean                          # noqa: F401
 from ccxt.async_support.therock import therock                            # noqa: F401
 from ccxt.async_support.tidebit import tidebit                            # noqa: F401
